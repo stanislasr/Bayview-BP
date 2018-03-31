@@ -1,0 +1,117 @@
+@font-face {
+	font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+    
+}
+
+.imgLogo {
+    border-radius: 20%;
+}
+
+.navbar {
+	background-color: #8DF597;
+    color: black;
+	width: 100%;
+    font-weight: 900;
+}
+
+body {
+    min-width: 1197px;
+    min-height: 436px;
+}
+
+.imgContainer {
+    padding: 5.5% 0 0 0;
+    margin: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.imgCar {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.imgContainer2 {
+    padding-top: 9.5%;
+    display: inline-block;
+    max-width: 59.6%;
+    margin-bottom: 9.5%;
+    padding-left: 2%;
+}
+
+.imgDog {
+    max-width: 90%;
+}
+
+.about {
+    margin-left: 1.9%;
+    margin-right: 3%;
+    max-width:  35.1%;
+    max-height: 100%;
+    display: inline-block;
+    text-align: center;
+}
+
+.about p {
+    font-weight: 200;
+    color: black;
+}
+
+.imgContainer3 {
+    padding: 5.5% 0 0 0;
+    margin: 0;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.imgSocialMedia {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#footer {
+    width: 100%;
+    height: 100%;
+    background-color: #8DF597;
+    color: black;
+    font-weight: 900;
+    margin: 0;
+    padding-top: 1.6%;
+}
+    
+.contactTag {
+    width: 100%;
+    height: 100%;
+    background-color: #8DF597;
+}
+
+.address {
+    width: 41.333333333333333333333333333333%;
+    float: left;
+    background-color: #8DF597;
+    padding-left: 15%;
+    margin: 0;
+}
+
+.phone {
+    width: 25.333333333333333333333333333333%;
+    float: left;
+    background-color: #8DF597;
+    padding-left: 5%;
+    margin: 0;
+}
+
+.email {
+    width: 33.333333333333333333333333333333%;
+    float: left;
+    background-color: #8DF597;
+    margin: 0;
+}
+
+@media only screen and (max-width: 1200px) {
+    body {
+        font-size: .7em;
+    }
+}
+
+
